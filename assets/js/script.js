@@ -1,4 +1,5 @@
 const mode = document.getElementById('mode_icon')
+
 mode.addEventListener('click', () => {
 const form = document.getElementById('login_form')
 
